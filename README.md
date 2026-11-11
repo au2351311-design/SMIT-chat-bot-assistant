@@ -1,4 +1,4 @@
-# SMIT Chatbot Assistant (Java Swing)
+# SMIT Chatbot Assistant (Java AWT & Swing)
 
 Desktop app for SMIT CSE-B students with dashboard, chat assistant, class timetable, exam timetable, subject/faculty list and countdowns.
 
